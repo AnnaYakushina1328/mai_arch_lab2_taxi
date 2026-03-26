@@ -589,7 +589,7 @@ docker run --rm -it \
 Внутри контейнера:
 
 ```bash
-cd taxi_service
+cd mai_arch_lab2_taxi
 export HOME=/tmp
 export CCACHE_DIR=/tmp/.ccache
 mkdir -p "$CCACHE_DIR"
