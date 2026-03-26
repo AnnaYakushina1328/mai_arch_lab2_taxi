@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # taxi_service
 
 Template of a C++ service that uses [userver framework](https://github.com/userver-framework/userver).
@@ -35,3 +36,7 @@ can also be `debug-custom`, `release-custom`.
 The original template is distributed under the [Apache-2.0 License](https://github.com/userver-framework/userver/blob/develop/LICENSE)
 and [CLA](https://github.com/userver-framework/userver/blob/develop/CONTRIBUTING.md). Services based on the template may change
 the license and CLA.
+=======
+# mai_arch_lab2_taxi
+2 лаба по программной инженерии 16 вариант
+>>>>>>> ba1b702fcd91a48347129d437fb9a36f0837ea3e
