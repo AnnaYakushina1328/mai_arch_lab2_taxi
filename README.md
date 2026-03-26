@@ -599,9 +599,17 @@ make build-debug
 
 ### Запуск через Docker Compose
 
-Из каталога `taxi_service`:
+Из каталога `mai_arch_lab2_taxi`:
 
 ```bash
+docker compose up --build
+```
+
+или
+
+```bash
+git clone https://github.com/AnnaYakushina1328/mai_arch_lab2_taxi.git
+cd mai_arch_lab2_taxi
 docker compose up --build
 ```
 
